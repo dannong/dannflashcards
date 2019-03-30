@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="DarkTheme.css">
+</head>
+
+<body class="background">
+<font color="white" size="2" style="font-family: 'Verdana'; position: center">
+    Testing <br>
+    Get started with adding a Flashcard. <br>
+</font>
+</body>
+</html>
